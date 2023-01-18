@@ -6,7 +6,7 @@
 Android平台支持连接多种协议，支持节点测速APP: [SSRRAY](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)  
 跨平台，多协议节点批量测速工具: [LiteSpeedTest](https://github.com/xxf098/LiteSpeedTest/releases)  
 ### 订阅地址  
-- `https://raw.githubusercontent.com/mianfeifq/share/main/data2022126.txt`  
+- `https://raw.githubusercontent.com/syly315531/share/main/data2022126.txt`  
 - `https://raw.fastgit.org/mianfeifq/share/main/data2022126.txt`  
 ### 最新节点 
 ```
